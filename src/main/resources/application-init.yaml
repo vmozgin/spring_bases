@@ -1,0 +1,3 @@
+file:
+  save: ./contacts.txt
+  init: src/main/resources/default-contacts.txt
